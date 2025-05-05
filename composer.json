@@ -1,0 +1,19 @@
+{
+    "name": "scc8/cortes-ecommerce",
+    "description": "This is an E-Commerce Project for Finals",
+    "require": {
+        "nesbot/carbon": "^3.9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Scc8\\CortesEcommerce\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mark Jay Vincent Cortes",
+            "email": "markjayvincentcortes@gmail.com"
+        }
+    ]
+}
